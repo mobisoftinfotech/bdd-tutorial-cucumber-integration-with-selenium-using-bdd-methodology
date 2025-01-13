@@ -1,4 +1,4 @@
-package com.mobisoft.common.stepDefinitions;
+package com.mobisoft.common.stepdefinitions;
 
 import java.time.Duration;
 
@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
 
-import com.mobisoft.common.pageObjects.LoginPage;
+import com.mobisoft.common.pageobjects.LoginPage;
 import com.mobisoft.common.utils.BaseTest;
 
 import io.cucumber.java.en.Given;

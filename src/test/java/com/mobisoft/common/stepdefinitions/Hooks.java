@@ -1,4 +1,4 @@
-package com.mobisoft.common.stepDefinitions;
+package com.mobisoft.common.stepdefinitions;
 
 import java.io.File;
 import java.io.IOException;

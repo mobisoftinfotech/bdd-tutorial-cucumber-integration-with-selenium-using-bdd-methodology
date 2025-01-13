@@ -1,4 +1,4 @@
-package com.mobisoft.common.pageObjects;
+package com.mobisoft.common.pageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,7 +12,6 @@ public class LoginPage {
 		this.driver = driver;
 	}
 
-	//Path
 	private final By txtUsername = By.id("user-name");
 	private final By txtPassword = By.id("password");
 	private final By btnLogin = By.id("login-button");

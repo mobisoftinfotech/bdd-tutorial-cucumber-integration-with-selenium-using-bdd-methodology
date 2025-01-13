@@ -1,4 +1,4 @@
-package com.mobisoft.common.cucumberOptions;
+package com.mobisoft.common.cucumberoptions;
 
 import org.testng.annotations.DataProvider;
 
