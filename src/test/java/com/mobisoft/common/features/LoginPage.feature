@@ -12,4 +12,3 @@ Scenario: Verify login with valid credentials
 Given User is on saucedemo login page
 When User enters username "standard_user" and password "secret_sauce" and clicks on login page
 Then User should be on dashboard page
-
