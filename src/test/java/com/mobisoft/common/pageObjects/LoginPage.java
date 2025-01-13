@@ -12,6 +12,7 @@ public class LoginPage {
 		this.driver = driver;
 	}
 
+	//Path
 	private final By txtUsername = By.id("user-name");
 	private final By txtPassword = By.id("password");
 	private final By btnLogin = By.id("login-button");
